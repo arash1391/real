@@ -1,0 +1,22 @@
+.arash{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(22, 197, 31);
+}
+body{
+    background-color: rgb(167, 167, 33);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ir1{
+    color: red;
+}
+.ir4{
+    color: greenyellow;
+}
+.ir2{
+    color: white;
+}
+.ir3{
+    color: white;
+}
